@@ -18,7 +18,7 @@ body {
 #opening {
     color: rgb(62, 42, 15);
    font-family: cursive;
-    background-color: rgba(206, 193, 148,0.8);
+    background-color: rgb(206, 193, 148,0.8);
 }
 #rose {
     position: absolute;
@@ -26,11 +26,11 @@ body {
     top: 245px;
     left: 40px;
 }
-#leaves {
+.leaves {
     position: absolute;
     width: 900px;
     height: 300px;
-    top:220px ;
+    top: 220px;
     left: 0px;
     z-index: -1;
 }

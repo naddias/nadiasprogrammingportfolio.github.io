@@ -11,7 +11,7 @@ body {
     font-family:cursive;
     font-size:35px;
     margin-left: 7px;
-    background-color:rgb(206, 193, 148,0.8) ;
+    background-color:rgb(206, 193, 148,0.8);
 }
 #home {
     width: 160px;
@@ -28,7 +28,6 @@ body {
 #text{
     font-family:cursive;
     color: rgb(78, 41, 20);
-    margin-left:px;
     background-color:rgb(206, 193, 148,0.8);
 }
 #text2 {
@@ -42,16 +41,12 @@ body {
 #uri {
     width: 45px;
     margin-left: 0px;
-    margin-top: px;
 }
 #ram {
     width: 60px;
     margin-left: 740px;
 }
-#leaves {
-    width: 600px;
-    height: 200px;
-}
+
 #book {
     position: absolute;
     width: 90px;
